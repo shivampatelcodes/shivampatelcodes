@@ -1,7 +1,7 @@
 ## 👋 Hey there! I'm Shivam Patel  
 🚀 **Full-Stack Developer | Mobile Developer | Software Enthusiast**  
 
-📍 *Kitchener, ON* | ✉️ [shivampatelcodes@gmail.com](mailto:shivampatelcodes@gmail.com) | 🔗 [LinkedIn](#) | 🌐 [Portfolio](#)
+📍 *Kitchener, ON* | ✉️ [shivampatelcodes@gmail.com](mailto:shivampatelcodes@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/shivam-patel-89baa1261/) | 🌐 [Portfolio](https://shivampatel.vercel.app/)
 
 ---
 
