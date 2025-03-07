@@ -27,7 +27,7 @@
 ---
 
 ### 📚 Education  
-🎓 **Conestoga College** - *Computer Programming* (2023-2025)  
+🎓 **Conestoga College** - *Computer Programming* 
 
 ---
 
