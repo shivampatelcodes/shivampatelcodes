@@ -23,33 +23,33 @@
 
 ## 📌 Featured Projects
 
-### 🚗 [EasyRide](https://github.com/your-username/easyride)
+### 🚗 [EasyRide](https://easyride-lime.vercel.app)
 A full-featured **ride-sharing platform** built with React and Firebase.  
 ✔️ Role-based access for drivers & passengers  
 ✔️ Real-time trip & booking management with Firestore  
 ✔️ Firebase Authentication for secure login  
 ✔️ Fully responsive UI with Tailwind CSS  
 
-### 📖 Blog App (MERN Stack)
+### 📖 [Blog App](https://blogapp-prodfrontend.vercel.app/login)
 A full-stack blog platform with:  
 ✔️ User authentication  
 ✔️ Profile management  
 ✔️ Post creation, editing & deletion  
 ✔️ Image storage via Cloudinary  
 
-### 🛒 E-commerce Product Catalog
+### 🛒 [E-commerce Product Catalog](https://shivampatel1.vercel.app/)
 React-based product catalog featuring:  
 ✔️ Product listing from Fake Store API  
 ✔️ Dynamic cart system  
 ✔️ Discount logic & responsive design  
 
-### 🎵 Online Music Player
+### 🎵 [Online Music Player](https://online-music-preview.netlify.app)
 Built using the Deezer API:  
 ✔️ Global music search  
 ✔️ Audio preview  
 ✔️ Lightweight, responsive UI  
 
-### 🌦 Weather Dashboard
+### 🌦 [Weather Dashboard](https://weather-finder-web.vercel.app/)
 A simple, beautiful weather app using:  
 ✔️ OpenWeather API  
 ✔️ City-based dynamic search  
